@@ -2,3 +2,5 @@ base:
   language: rust
   sanitizers:
     address:
+    thread:
+    memory:
